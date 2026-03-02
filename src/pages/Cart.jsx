@@ -1,7 +1,9 @@
 import React from "react";
 import { FaShoppingCart } from "react-icons/fa"; // awesome cart icon
+import { useSelector } from "react-redux";
 
 const Cart = () => {
+  const selector = useSelector((state) => state.cart.value);
   return (
     <div
       style={{
@@ -29,7 +31,7 @@ const Cart = () => {
         }}
         className="cart-span"
       >
-        0
+        {selector}
       </span>
     </div>
   );
