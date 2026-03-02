@@ -1,7 +1,6 @@
 import React from "react";
 import { useDispatch } from "react-redux";
 import { decrement, increment } from "../redux/features/CartSlice";
-
 const Products = () => {
   const product = {
     id: 1,
@@ -9,8 +8,6 @@ const Products = () => {
     description:
       "High-quality wireless headphones with noise cancellation and 20 hours battery life.",
     price: 79.99,
-    image:
-      "https://images.unsplash.com/photo-1580894894513-d38b01f3bfa6?auto=format&fit=crop&w=500&q=80",
   };
   const dispatch = useDispatch();
 
