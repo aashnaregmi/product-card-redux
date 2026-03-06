@@ -6,56 +6,56 @@
       "id": 1,
       "name": "iPad",
       "price": 499,
-      "image": "./images/ipad.jpg",
+      "image": "./image/ipad.jpg",
       "description": "Apple iPad 10th Gen, 10.9-inch display"
     },
     {
       "id": 2,
       "name": "Digital Camera",
       "price": 699,
-      "image": "/images/digicam.jpg",
+      "image": "/image/digicam.jpg",
       "description": "Canon DSLR with 24MP sensor"
     },
     {
       "id": 3,
       "name": "Laptop",
       "price": 1200,
-      "image": "/images/laptop.jpg",
+      "image": "/image/laptop.png",
       "description": "Dell Inspiron 15, 16GB RAM, 512GB SSD"
     },
     {
       "id": 4,
       "name": "iPhone",
       "price": 999,
-      "image": "/images/iphone.jpg",
+      "image": "/image/iphone.png",
       "description": "Apple iPhone 14 Pro, 128GB"
     },
     {
       "id": 5,
       "name": "Keyboard",
       "price": 49,
-      "image": "/images/keyboard.jpg",
+      "image": "/image/keyboard.png",
       "description": "Mechanical RGB Gaming Keyboard"
     },
     {
       "id": 6,
       "name": "Mouse",
       "price": 35,
-      "image": "/images/mouse.jpg",
+      "image": "/image/mouse.png",
       "description": "Wireless Optical Mouse"
     },
     {
       "id": 7,
       "name": "Headphones",
       "price": 120,
-      "image": "/images/headphones.jpg",
+      "image": "/image/headphone.png",
       "description": "Noise Cancelling Over-Ear Headphones"
     },
     {
       "id": 8,
       "name": "Smart Watch",
       "price": 199,
-      "image": "/images/watch.jpg",
+      "image": "/image/watch.png",
       "description": "Apple Watch Series 9"
     }
   ]
